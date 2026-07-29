@@ -1,5 +1,13 @@
 ![logo](Ressources/Logo.png)
 
+![Static Badge](https://img.shields.io/badge/Let's%20Encrypt-SSL-blue)
+![Static Badge](https://img.shields.io/badge/Docker%20compose-%23555555)
+![Static Badge](https://img.shields.io/badge/Duck%20DNS-azortix--local-green)
+
+
+
+
+
 ## 📖 Présentation du projet
 Nginx Proxy Manager (NPM) est une interface graphique open-source conçue pour simplifier la gestion des reverse proxys basés sur Nginx et des certificats SSL.  
 Ce projet consiste en le déploiement de ce reverse proxy dans un conteneur LXC sous Proxmox VE.   
